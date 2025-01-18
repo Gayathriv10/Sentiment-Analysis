@@ -16,5 +16,5 @@ matplotlib==3.5.1
 #seaborn: A data visualization library based on matplotlib.
 seaborn==0.11.2
 
-#xgboost: A powerful machine learning library for gradient boosting.
-xgboost==1.5.2
+#hgboost:For training a model on your TF-IDF features.
+scikit-learn==0.24   #scikit-learn with 0.24 or higher is installed, you can use the HistGradientBoostingClassifier
