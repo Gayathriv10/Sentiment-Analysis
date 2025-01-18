@@ -1,5 +1,14 @@
 # Sentiment-Analysis
 
-This project Product review sentiment analysis involves extracting and evaluating the sentiments expressed in customer reviews. This technique employs natural language processing (NLP) and machine learning algorithms to categorize reviews as positive, negative, or neutral. 
+The project Sentiment Analysis involves the process of extracting and evaluating the sentiments expressed by customers as reviews. 
+This technique employs natural language processing (NLP) and machine learning algorithms to categorize reviews as positive, negative, or neutral. 
 
+# ML Alogirthms Used:
+1. Logistic Regression
+2. K-Nearest Neighbors
+3. Decision Tree
+4. Random Forest
+5. Hist Gradient Boosting Classifier
+   
 # Installation
+   git colne : https://github.com/Gayathriv10/Sentiment-Analysis.git
