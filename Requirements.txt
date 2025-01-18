@@ -1,0 +1,20 @@
+#scikit-learn: A machine learning library for Python.
+scikit-learn==1.1.1
+
+#WordCloud: For generating word clouds.
+WordCloud==1.8.2.2
+
+#vaderSentiment: A library used for sentiment analysis.
+vaderSentiment==3.3.2
+
+#nltk: For natural language processing tasks.
+nltk==3.7
+
+#matplotlib: A plotting library for visualizations.
+matplotlib==3.5.1
+
+#seaborn: A data visualization library based on matplotlib.
+seaborn==0.11.2
+
+#xgboost: A powerful machine learning library for gradient boosting.
+xgboost==1.5.2
