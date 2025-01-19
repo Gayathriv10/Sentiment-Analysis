@@ -11,4 +11,5 @@ This technique employs natural language processing (NLP) and machine learning al
 5. Hist Gradient Boosting Classifier
    
 # Installation
-   git colne : https://github.com/Gayathriv10/Sentiment-Analysis.git
+   git clone 
+   https://github.com/Gayathriv10/Sentiment-Analysis.git
