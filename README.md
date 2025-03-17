@@ -17,6 +17,9 @@ Install  it using
 ```bash
   git clone  https://github.com/Gayathriv10/Sentiment-Analysis.git
   cd Sentiment-Analysis
-  pip install -r Requirements.txt
+```
+Install the dependencies using this
+```bash
+ pip install -r Requirements.txt
 ```
     
